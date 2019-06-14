@@ -3,6 +3,6 @@ This is an extension of the mcclust package. It provides post-processing tools f
 
 Install from GitHub with the command in R (note: first install the package devtools):
 
-devtools::install_github(“sauravkaushik8/SamplePackage”)
+devtools::install_github(“sarawade/mcclust.ext”)
 
 Manual: https://www.maths.ed.ac.uk/~swade/docs/mcclust.ext-manual.pdf
