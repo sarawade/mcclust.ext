@@ -1,0 +1,8 @@
+export(credibleball,greedy,minbinder.ext,minVI,plotpsm,VI,VI.lb)
+importFrom(mcclust,minbinder)
+S3method(summary,c.estimate)
+S3method(plot,c.estimate)
+S3method(summary,credibleball)
+S3method(plot,credibleball)
+S3method(print,summary.c.estimate)
+S3method(print,summary.credibleball)

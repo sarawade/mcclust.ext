@@ -1,0 +1,16 @@
+Package: mcclust.ext
+Type: Package
+Title: Point estimation and credible balls for Bayesian cluster analysis
+Version: 1.0
+Date: 2015-03-24
+Author: Sara Wade
+Maintainer: Sara Wade <sara.wade@eng.cam.ac.uk>
+Description: This is an extension of the mcclust package. It provides 
+	post-processing tools for MCMC samples of partitions to summarize 
+	the posterior in Bayesian clustering models. Functions for point 
+	estimation are provided, giving a single representative clustering 
+	of the posterior. And, to characterize uncertainty in the point 
+	estimate, credible balls can be computed.
+Depends: R (>= 2.10), mcclust
+License: GPL (>= 2)
+
