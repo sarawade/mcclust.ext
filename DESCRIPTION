@@ -1,6 +1,7 @@
 Package: mcclust.ext
 Type: Package
-Title: Point estimation and credible balls for Bayesian cluster analysis
+Title: Point estimation and credible balls for Bayesian cluster
+        analysis
 Version: 1.0
 Date: 2015-03-24
 Author: Sara Wade
@@ -13,4 +14,4 @@ Description: This is an extension of the mcclust package. It provides
 	estimate, credible balls can be computed.
 Depends: R (>= 2.10), mcclust
 License: GPL (>= 2)
-
+Packaged: 2015-05-15 09:10:53 UTC; skw38
